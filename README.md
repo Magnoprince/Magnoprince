@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Kiej Magno</h1>
-<h3 align="center">Passionate about programming and continuously expanding my expertise in programming with a strong ambition to become a highly skilled Full-Stack Developer. 🚀</h3>
+<h3 align="center">Passionate about programming and continuously expanding my expertise in Java and Spring Boot with a strong ambition to become a highly skilled Full-Stack Developer. 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magnoprince&label=Profile%20views&color=0e75b6&style=flat" alt="magnoprince" /> </p>
 
